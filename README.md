@@ -23,17 +23,9 @@ Clone the repo and run index.html on localhost, no dependencies needed.
 
 ## Playing with different models
 
-Open the `/web/resources/data.json` file and add/edit your new object _(name, url, texture)_. Also include/edit your new texture _(name, url)_.
+Open the `/resources/data.json` file and add/edit your new object _(name, url, texture)_. Also include/edit your new texture _(name, url)_.
 
 Next, open the `script.js` file, change the Demo class to add your new model to the scene _(line 50)_.
-
-## Development
-
-To compile your C code/changes, make sure you have wasi installed then update your `.makefile --sysroot` directory accordingly _(line 9)_.
-
-- WASI -> **_[https://wasi.dev](https://wasi.dev "https://wasi.dev")_**
-
-I'm developing this project on MacOs _(Ventura)_ and testing with chromium. If you have a different environment, it may not compile/work properly :(
 
 ## Bugs
 
