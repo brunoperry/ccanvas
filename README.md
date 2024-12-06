@@ -1,6 +1,6 @@
 # **Gizmo Engine** _(wasm)_
 
-![picture alt](https://raw.githubusercontent.com/brunoperry/gizmo_wasm/abb66453287b98c92e93509901a187b34347bade/placeholder.png "CCANVAS screenshot")
+![picture alt](https://raw.githubusercontent.com/brunoperry/ccanvas/refs/heads/main/resources/images/placeholder_readme.jpg "CCANVAS screenshot")
 
 ## About
 
