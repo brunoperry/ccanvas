@@ -1,0 +1,29 @@
+{
+  "meshes": [
+    {
+      "name": "surfer",
+      "url": "./resources/meshes/surfer.obj",
+      "texture": "surfer"
+    },
+    {
+      "name": "bowl",
+      "url": "./resources/meshes/bowl.obj",
+      "texture": "bowl"
+    }
+  ],
+  "images": [
+    {
+      "name": "surfer",
+      "url": "./resources/images/texture_surfer.png"
+    },
+    {
+      "name": "bowl",
+      "url": "./resources/images/sphere.png"
+    },
+    {
+      "name": "null",
+      "url": "./resources/images/texture_null.png"
+    }
+  ],
+  "audios": []
+}
