@@ -15,7 +15,7 @@
 
 ## Check it out
 
-**[https://brunoperry.github.io/gizmo_wasm/web/](https://brunoperry.github.io/gizmo_wasm/web/ "https://brunoperry.github.io/gizmo_wasm/web/")**
+**[https://brunoperry.github.io/ccanvas/](https://brunoperry.github.io/ccanvas/ "https://brunoperry.github.io/ccanvas/")**
 
 ## Test it
 
